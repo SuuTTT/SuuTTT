@@ -19,12 +19,13 @@ Here are some ideas to get you started:
     <p align='center'>
         <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=SuuTTT&show_icons=true&theme=solarized-light'/>
     </p>
-    
-  
+</div>    
+<div align='center'>  
     <p align='center'>
         <img src='https://github-readme-stats.vercel.app/api/wakatime?username=SuuTTT&theme=solarized-light'/>
     </p>
-</div>
+    
+</div>  
 
 <!--START_SECTION:waka-->
 
