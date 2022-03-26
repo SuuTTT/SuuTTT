@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div align='center'>
     <p align='center'>
         <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=SuuTTT&show_icons=true&theme=solarized-light'/>
@@ -21,6 +23,7 @@ Here are some ideas to get you started:
     <p align='center'>
         <img src='https://github-readme-stats.vercel.app/api/wakatime?username=SuuTTT&theme=solarized-light'/>
     </p>
+    
     <p align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuuTTT&layout=compact&theme=solarized-light"/>
     </p>
