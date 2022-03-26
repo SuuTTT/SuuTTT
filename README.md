@@ -29,4 +29,12 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+Python     17 hrs 57 mins  ██████████████████████░░░   87.93 %
+Bash       1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+JSON       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Other      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+```
+
 <!--END_SECTION:waka-->
