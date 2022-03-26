@@ -19,7 +19,7 @@ Here are some ideas to get you started:
         <img src='https://github-readme-stats.vercel.app/api?line_height=27&username=SuuTTT&show_icons=true&theme=solarized-light'/>
     </p>
     <p align='center'>
-        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=1015011749@qq.com&theme=solarized-light'/>
+        <img src='https://github-readme-stats.vercel.app/api/wakatime?username=SuuTTT&theme=solarized-light'/>
     </p>
     <p align='center'>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuuTTT&layout=compact&theme=solarized-light"/>
