@@ -30,12 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python        11 hrs 32 mins  ███████████▓░░░░░░░░░░░░░   46.39 %
-Text          5 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Markdown      2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Bash          1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-TeX           1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-C++           51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Python        14 hrs 9 mins   ███████████▒░░░░░░░░░░░░░   45.66 %
+Text          6 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+Other         3 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 ```
 
 <!--END_SECTION:waka-->
