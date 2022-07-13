@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python        18 hrs 49 mins  ████████████████▒░░░░░░░░   64.98 %
-C++           5 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-JSON          1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Other         1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Python       20 hrs 51 mins  ██████████████████▒░░░░░░   73.36 %
+C++          3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+JSON         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Other        59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
