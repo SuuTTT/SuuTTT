@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 11 mins  █████████████████████░░░░   83.41 %
-JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Python       19 hrs 31 mins  ███████████████████▓░░░░░   78.19 %
+Vue.js       1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Other        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
