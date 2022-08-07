@@ -30,10 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       15 hrs 24 mins  ██████████████████▓░░░░░░   74.22 %
-Vue.js       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Markdown     43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Other        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Python             5 hrs 22 mins   █████████████████▓░░░░░░░   70.31 %
+C++                55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Other              41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
 
 <!--END_SECTION:waka-->
