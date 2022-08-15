@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown      1 hr 37 mins    ██████████▒░░░░░░░░░░░░░░   40.81 %
-C             1 hr 2 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
-Other         37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Python        1 hr 41 mins    ██████████▓░░░░░░░░░░░░░░   42.05 %
+C             1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+Other         37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
 ```
 
 <!--END_SECTION:waka-->
