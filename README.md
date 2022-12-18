@@ -30,11 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     37 mins         █████████████████████▒░░░   85.23 %
-Text       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python   7 mins          ██████████████▒░░░░░░░░░░   57.38 %
+Other    5 mins          ██████████▒░░░░░░░░░░░░░░   40.84 %
 ```
 
 <!--END_SECTION:waka-->
