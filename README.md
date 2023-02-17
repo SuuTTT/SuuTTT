@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     5 hrs 16 mins   ██████████████████▓░░░░░░   74.36 %
-C++        56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Other      37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Python     4 hrs 17 mins   ██████████████████░░░░░░░   71.77 %
+C++        56 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Other      33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 ```
 
 <!--END_SECTION:waka-->
