@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   38 mins         ████████████████████████▓   98.77 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown   12 mins         █████████████████████▓░░░   86.72 %
+Other      1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
 ```
 
 <!--END_SECTION:waka-->
