@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.54 %
-SSH Config   1 hr 55 mins    █████████░░░░░░░░░░░░░░░░   35.55 %
-Other        51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Python       1 hr 35 mins    ████████████████▒░░░░░░░░   65.77 %
+Other        29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 %
 ```
 
 <!--END_SECTION:waka-->
