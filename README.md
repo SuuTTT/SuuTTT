@@ -30,11 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         16 mins         █████████▒░░░░░░░░░░░░░░░   36.78 %
-SSH Config   13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.49 %
-Batchfile    12 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
-C++          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Bash         16 mins         █████████▓░░░░░░░░░░░░░░░   38.59 %
+SSH Config   13 mins         ████████░░░░░░░░░░░░░░░░░   31.99 %
+Batchfile    12 mins         ███████▒░░░░░░░░░░░░░░░░░   28.69 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
