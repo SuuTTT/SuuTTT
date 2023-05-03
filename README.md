@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         16 mins         █████████▓░░░░░░░░░░░░░░░   38.52 %
-SSH Config   13 mins         ████████░░░░░░░░░░░░░░░░░   31.93 %
-Batchfile    12 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
