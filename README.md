@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-Bash         39 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-Markdown     38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-TypeScript   25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-SSH Config   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Python       4 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.21 %
+Markdown     1 hr 51 mins    ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+Bash         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+TypeScript   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+SSH Config   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
