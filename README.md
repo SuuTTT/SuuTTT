@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        1 hr 24 mins    ██████████████▓░░░░░░░░░░   58.66 %
-Markdown      54 mins         █████████▒░░░░░░░░░░░░░░░   37.67 %
-JSON          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Ezhil         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
