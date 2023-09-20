@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   57 mins         ████████████████████░░░░░   80.48 %
-JSON   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
