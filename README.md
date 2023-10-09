@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ezhil        9 mins          ██████████▒░░░░░░░░░░░░░░   41.07 %
+SSH Config   7 mins          ████████░░░░░░░░░░░░░░░░░   31.86 %
+Python       4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+TSQL         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
