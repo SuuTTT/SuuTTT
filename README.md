@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil        9 mins          ██████████▒░░░░░░░░░░░░░░   41.07 %
-SSH Config   7 mins          ████████░░░░░░░░░░░░░░░░░   31.86 %
-Python       4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.56 %
-TSQL         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Ezhil            9 mins          ██████████░░░░░░░░░░░░░░░   39.97 %
+SSH Config       7 mins          ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+Python           4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+TSQL             1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+ActionScript 3   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
